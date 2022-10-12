@@ -6,16 +6,16 @@ export default {
   component: Text,
   args: {
     children: "Lorem Impsum.",
-    size: "md"
+    size: "md",
   },
   argTypes: {
     size: {
-        options: ["sm", "md", "lg"],
-        control: {
-            type: "inline-radio"
-        }
-    }
-  }
+      options: ["sm", "md", "lg"],
+      control: {
+        type: "inline-radio",
+      },
+    },
+  },
 } as Meta<TextProps>;
 
 export const Small: StoryObj<TextProps> = {
@@ -39,15 +39,18 @@ export const Large: StoryObj<TextProps> = {
 export const CustomComponent: StoryObj<TextProps> = {
   args: {
     asChild: true,
-    children: (
-        <p>I'm paragraph</p>
-    )
+    children: <p>I'm paragraph</p>,
   },
   argTypes: {
     children: {
-        table: {
-            disable: true,
-        }
-    }
-  }
+      table: {
+        disable: true,
+      },
+    },
+    asChild: {
+      table: {
+        disable: true,
+      },
+    },
+  },
 };
