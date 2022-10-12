@@ -6,7 +6,16 @@ export default {
   component: Text,
   args: {
     children: "Lorem Impsum.",
+    size: "md"
   },
+  argTypes: {
+    size: {
+        options: ["sm", "md", "lg"],
+        control: {
+            type: "inline-radio"
+        }
+    }
+  }
 } as Meta<TextProps>;
 
 export const Small: StoryObj<TextProps> = {
@@ -34,4 +43,11 @@ export const CustomComponent: StoryObj<TextProps> = {
         <p>I'm paragraph</p>
     )
   },
+  argTypes: {
+    children: {
+        table: {
+            disable: true,
+        }
+    }
+  }
 };
