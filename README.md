@@ -6,18 +6,15 @@
 
 Um evento 100% online, gratuito e mão na massa com foco em front-end, pra quem curte React e quer se especializar ainda mais nessa ferramenta, além de ser um projeto completo usando tecnologias modernas! 
 
-- **O evento é direcionado para:**
-✅ Devs que querem se especializar em React
-✅ Devs que desejam se aprofundar em ferramentas e desenvolver um projeto novo para seu portfólio
+- **O evento é direcionado para:**\
+✅ Devs que querem se especializar em React\
+✅ Devs que desejam se aprofundar em ferramentas e desenvolver um projeto novo para seu portfólio\
 ✅ Devs que querem aprofundar seus conhecimentos e se atualizar
 
-<br />
-
-- **Aulas**
-
-    - Aula 1 - Estrutura visual do Design System
-    - Aula 2 - Do Figma ao React, criando aplicação
-    - Aula 3 - Testando e automatizando
+- **Aulas**\
+    Aula 1 - Estrutura visual do Design System\
+    Aula 2 - Do Figma ao React, criando aplicação\
+    Aula 3 - Testando e automatizando
 
 ## 📁 Página(s)
 
