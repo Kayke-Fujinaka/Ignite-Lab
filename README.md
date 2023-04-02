@@ -1,38 +1,38 @@
-<h1 align="center">🧪 Ignite Lab - Design System</h1>
+<h1 align="center">   Ignite Lab - Design System</h1>
 
-🗔 Confira a aplicação: https://ignite-lab-two-omega.vercel.app
+🗔 Check out the app: https://ignite-lab-two-omega.vercel.app
 
-## 🎲 O que é o Ignite Lab?
+## 🎲 What is Ignite Lab?
 
-Um evento 100% online, gratuito e mão na massa com foco em front-end, pra quem curte React e quer se especializar ainda mais nessa ferramenta, além de ser um projeto completo usando tecnologias modernas! 
+A 100% online, free and hands-on event focused on front-end, for those who enjoy React and want to specialize even more in this tool, in addition to being a complete project using modern technologies!
 
-- **O evento é direcionado para:**\
-✅ Devs que querem se especializar em React\
-✅ Devs que desejam se aprofundar em ferramentas e desenvolver um projeto novo para seu portfólio\
-✅ Devs que querem aprofundar seus conhecimentos e se atualizar
+- **The event is directed to:**\
+✅ Devs who want to specialize in React\
+✅ Devs who want to delve into tools and develop a new project for their portfolio\
+✅ Devs who want to deepen their knowledge and update themselves
 
-- **Aulas**\
-    Aula 1 - Estrutura visual do Design System\
-    Aula 2 - Do Figma ao React, criando aplicação\
-    Aula 3 - Testando e automatizando
+- **Classes**\
+    Class 1 - Visual Structure of the Design System\
+    Lesson 2 - From Figma to React, creating an application\
+    Lesson 3 - Testing and automating
 
-## 📁 Página(s)
+## 📁 Page(s)
 
-O site tem no total 1 página(s), sendo ela(s):
+The site has a total of 1 page(s), which are:
 
-- **SignIn:** Uma página de login feita a qual possui um campo de email, senha e um checkbox.
+- **SignIn:** A login page made which has an email field, password and a checkbox.
 
 ## 🎨 Story
 
-A documentação dos componentes que fiz utilizando a tecnologia [Storybook](https://storybook.js.org).
+The documentation of the components I made using the [Storybook](https://storybook.js.org) technology.
 
-🗔 Confira a aplicação: https://kayke-fujinaka.github.io/Ignite-Lab/?path=/story/components-signin--default
+🗔 Check out the app: https://kayke-fujinaka.github.io/Ignite-Lab/?path=/story/components-signin--default
 
 ## 👨‍🎨 Figma
 
-🗔  Confira o design: https://www.figma.com/file/Hg6FmX3fp2PhfEbzFqiM8Q/Ignite-Lab-Design-System?node-id=0%3A1
+🗔 Check out the design: https://www.figma.com/file/Hg6FmX3fp2PhfEbzFqiM8Q/Ignite-Lab-Design-System?node-id=0%3A1
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 - [Vite](https://vitejs.dev)
 - [React.js](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org)
@@ -45,18 +45,18 @@ A documentação dos componentes que fiz utilizando a tecnologia [Storybook](htt
 - [Testing Library](https://testing-library.com)
 - [MSW](https://mswjs.io)
 
-## :closed_book: Como usar?
+## :closed_book: How to use it?
 
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ```bash
 # Clone this project
 $ git clone https://github.com/Kayke-Fujinaka/Ignite-Lab
 
-# Access
+# access
 $ cd lab-design-system
 
-# Install dependencies
+# install dependencies
 $ yarn or npm
 
 # Run the project
@@ -65,27 +65,27 @@ $ yarn start or npm start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Go back to top</a>
